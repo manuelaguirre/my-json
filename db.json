@@ -1,0 +1,29 @@
+{
+    "id": 1,
+    "name": "Leanne Graham",
+    "username": "culionii12",
+    "bio": "Músico, pianista, guitarrista y estudiante de composición.",
+    "email": "Sincere@april.biz",
+    "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496",
+        "radius": "15"
+    },       
+    "interests": [
+        {
+            "name": "French"
+        },
+        {
+            "name": "Yoga"
+        }
+    ],
+    "expertise": [
+        {
+            "name": "German"
+        },
+        {
+            "name": "Math"
+        }
+    ],
+    "availability": "true"       
+}
