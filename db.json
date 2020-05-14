@@ -1,7 +1,8 @@
-{"users": 
+{"users": [
     {
         "id": 1,
         "name": "Leanne Graham",
+        "img-url": "https://picsum.photos/200",
         "username": "culionii12",
         "bio": "Músico, pianista, guitarrista y estudiante de composición.",
         "email": "Sincere@april.biz",
@@ -27,5 +28,36 @@
             }
         ],
         "availability": "true"       
+    },
+    {
+        "id": 2,
+        "name": "Robert Loco",
+        "img-url": "https://picsum.photos/200",
+        "username": "lokisimo60",
+        "bio": "Más loco que todos",
+        "email": "fatapom@aharte.biz",
+        "geo": {
+            "lat": "-12.3159",
+            "lng": "98.1496",
+            "radius": "25"
+        },       
+        "interests": [
+            {
+                "name": "Carpentry"
+            },
+            {
+                "name": "Blacksmithing"
+            }
+        ],
+        "expertise": [
+            {
+                "name": "Physics"
+            },
+            {
+                "name": "Medicine"
+            }
+        ],
+        "availability": "true" 
     }
+]
 }
